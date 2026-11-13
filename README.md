@@ -9,14 +9,14 @@
   <a href="https://mariana-restrepo.github.io/Mi-Portafolio/"><img src="https://img.shields.io/badge/Portafolio-1d1b18?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"></a>
   <a href="https://www.linkedin.com/in/mariana-restrepo-barrientos-176077324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:marianarestrepobarrientos@gmail.com"><img src="https://img.shields.io/badge/Correo-d81e5b?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
-  <a href="https://mariana-restrepo.github.io/Mi-Portafolio/Hoja_de_vida_Mariana_Restrepo_Barrientos.pdf"><img src="https://img.shields.io/badge/Hoja_de_vida-8a6430?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Hoja de vida"></a>
 </p>
 
 ---
 
 ### Sobre mí
 
-- 🧩 En **Crystal S.A.S.** creo y mantengo una librería de diseño de **173 componentes** usada en **12 aplicativos**, y he rediseñado **6 aplicativos web** internos.
+- 💼 Hago mis prácticas como **Desarrolladora Frontend** en Crystal S.A.S.
+- 🧩 Construyo mi propio sistema de diseño accesible, **[mariana-ui](https://github.com/Mariana-Restrepo/mariana-ui)**, en React + TypeScript.
 - ♿ Diseño y construyo con **accesibilidad WCAG 2.2 AA**: contraste, navegación por teclado y lector de pantalla.
 - 🎓 Tecnología en Desarrollo de Software en la U. Católica Luis Amigó · Máster en Diseño Web y Apps (UX/UI) desde abril de 2027.
 - 🤖 Uso IA (Claude) para desarrollar a partir de especificaciones, revisando y depurando el código.
