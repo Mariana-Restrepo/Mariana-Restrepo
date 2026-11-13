@@ -16,7 +16,7 @@
 ### Sobre mí
 
 - 💼 Hago mis prácticas como **Desarrolladora Frontend** en Crystal S.A.S.
-- 🧩 Construyo mi propio sistema de diseño accesible, **[mariana-ui](https://github.com/Mariana-Restrepo/mariana-ui)**, en React + TypeScript.
+- 🧩 Construyo mi propio sistema de diseño, **[mariana-ui](https://github.com/Mariana-Restrepo/mariana-ui)**, con un estilo Minimal y uno Creativo.
 - ♿ Diseño y construyo con **accesibilidad WCAG 2.2 AA**: contraste, navegación por teclado y lector de pantalla.
 - 🎓 Tecnología en Desarrollo de Software en la U. Católica Luis Amigó · Máster en Diseño Web y Apps (UX/UI) desde abril de 2027.
 - 🤖 Uso IA (Claude) para desarrollar a partir de especificaciones, revisando y depurando el código.
@@ -43,6 +43,6 @@
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | **[Gestor Ventures](https://mariana-restrepo.github.io/Diseno-Movil-II/)** | App para emprendedores. Diseñé la experiencia y un prototipo de 39 pantallas con 50 combinaciones de color verificadas en WCAG AA. | Figma · UX Research · Prototipado |
-| **[mariana-ui](https://mariana-restrepo.github.io/mariana-ui/)** | Mi sistema de diseño: tokens claro/oscuro y 8 componentes accesibles, con 0 violaciones WCAG A/AA. | React · TS · Storybook · Vitest |
+| **[mariana-ui](https://mariana-restrepo.github.io/mariana-ui/)** | Mi sistema de diseño para apps web y móviles: estilos Minimal y Creativo en claro y oscuro, con documentación de marca propia. | Design tokens · Storybook · React · TS |
 | **[Soy Mariana](https://github.com/Mariana-Restrepo/SoyMariana)** | Web PWA + app móvil con sistema de diseño compartido. 100/100 en accesibilidad en Lighthouse. | React 19 · TS · Tailwind · Expo |
 | **[Mi Portafolio](https://github.com/Mariana-Restrepo/Mi-Portafolio)** | Mi portafolio con 4 combinaciones de estilo (elegante/vibrante × claro/oscuro). | React · TS · Design tokens |
