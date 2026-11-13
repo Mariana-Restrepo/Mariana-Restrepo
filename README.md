@@ -43,6 +43,6 @@
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | **[Gestor Ventures](https://mariana-restrepo.github.io/Diseno-Movil-II/)** | App para emprendedores. Diseñé la experiencia y un prototipo de 39 pantallas con 50 combinaciones de color verificadas en WCAG AA. | Figma · UX Research · Prototipado |
+| **[mariana-ui](https://mariana-restrepo.github.io/mariana-ui/)** | Mi sistema de diseño: tokens claro/oscuro y 8 componentes accesibles, con 0 violaciones WCAG A/AA. | React · TS · Storybook · Vitest |
 | **[Soy Mariana](https://github.com/Mariana-Restrepo/SoyMariana)** | Web PWA + app móvil con sistema de diseño compartido. 100/100 en accesibilidad en Lighthouse. | React 19 · TS · Tailwind · Expo |
 | **[Mi Portafolio](https://github.com/Mariana-Restrepo/Mi-Portafolio)** | Mi portafolio con 4 combinaciones de estilo (elegante/vibrante × claro/oscuro). | React · TS · Design tokens |
-| **[GestorClientes](https://mariana-restrepo.github.io/Aplicativo_busqueda/)** | Compara búsqueda secuencial vs. binaria con hasta 10 M de registros. | JavaScript · Algoritmos |
